@@ -41,8 +41,8 @@
 ## Contact(Choose Anything)
 <div>
   <img src="https://img.shields.io/badge/hantecude123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/qazwdf11@sejong.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/guejukmejeok-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/qazwdf11@sju.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/heekari-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
 
