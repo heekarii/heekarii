@@ -2,8 +2,8 @@
 
 <div align = center>
   
-  ![guejukmejeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=guejukmejeok&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guejukmejeok&layout=compact&theme=tokyonight)
+  ![heekarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=heekarii&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heekarii&layout=compact&theme=tokyonight)
 </div>
 
 <!--
