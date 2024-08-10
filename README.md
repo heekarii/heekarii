@@ -32,12 +32,13 @@
 ## Use Tools
 <div align = center>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=vscode&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white">
   <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
-***
+
+### Contact
 <div>
   <img src="https://img.shields.io/badge/hantecude123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/qazwdf11@sju.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><br>
