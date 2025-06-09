@@ -1,4 +1,7 @@
-# Heekari
+# Hee-seok Cho(Heekari)
+- Department of Software, Sejong University
+- Immersive Media Laboratory
+
 ----------
 
 <div align = center>
