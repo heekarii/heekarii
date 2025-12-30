@@ -1,7 +1,7 @@
 # Heeseok Cho
 ## Education
 - Department of Software in Sejong UniverSity, Republic of Korea, Undergraduate(2024.03~)
-## Work Experience
+## Experience
 - Immersive Media Laboratory of Sejong Univ. (Undergraduate Researcher, 2025.01~)
 
 ## I'm interestd in..
