@@ -30,8 +30,6 @@
 
 ### Contact
 <div>
-  If you want to contact me, please use following e-mails.(I check .sju.ac.kr more than gmail.com)<br>
-  <img src="https://img.shields.io/badge/hantecude123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/qazwdf11@sju.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><br>
 </div>
 
